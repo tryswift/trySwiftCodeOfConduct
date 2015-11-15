@@ -18,7 +18,7 @@ If you are being harassed, notice someone else that is being harassed, or have a
 
 try! Swift organizers and volunteers can be identified by t-shirts or will be stationed at reception/check-in of the venue. Contact email: info@tryswiftconf.com
 
-License
+## License
 
 This Code of Conduct was forked from iOSDevCampDC 2015, which was forked from Droidcon NYC 2015, which was in turnforked from Droidcon India 2014, which in turn was forked from the PyCon US Code of Conduct, which in turn was forked from the Geek Feminism wiki, created by the Ada Initiative and other volunteers and available under a creative Commons Zero license.
 
