@@ -20,6 +20,6 @@ try! Swift organizers and volunteers can be identified by t-shirts or will be st
 
 ## License
 
-This Code of Conduct was forked from iOSDevCampDC 2015, which was forked from Droidcon NYC 2015, which was in turnforked from Droidcon India 2014, which in turn was forked from the PyCon US Code of Conduct, which in turn was forked from the Geek Feminism wiki, created by the Ada Initiative and other volunteers and available under a creative Commons Zero license.
+This Code of Conduct was forked from iOSDevCampDC 2015, which was forked from Droidcon NYC 2015, which was in turn forked from Droidcon India 2014, which in turn was forked from the PyCon US Code of Conduct, which in turn was forked from the Geek Feminism wiki, created by the Ada Initiative and other volunteers and available under a creative Commons Zero license.
 
 The Conference Code of Conduct for try! Swift 2015 is licensed under a Creative Commons Attribution 3.0 Unported License.
