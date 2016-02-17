@@ -1,6 +1,6 @@
-# try! Swift Conferece Code Of Conduct
+# try! Conferece Code Of Conduct
 
-try! Swift Conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+try! Conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 We don’t want anyone to be excluded due to age, gender, sexual orientation, mental or physical impairments, appearance or skin colour, national or religious background. We hope to see the same attitude with our attendees, and look forward to experiencing a non-violent and peaceful event with you.
 
@@ -14,9 +14,9 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 ## Action
 
-If you are being harassed, notice someone else that is being harassed, or have any other concerns, please contact a member of the try! Swift organizers or volunteers immediately.
+If you are being harassed, notice someone else that is being harassed, or have any other concerns, please contact a member of the try! Conference organizers or volunteers immediately.
 
-try! Swift organizers and volunteers can be identified by t-shirts or will be stationed at reception/check-in of the venue. Contact email: info@tryswiftconf.com
+try! Conference organizers and volunteers can be identified by t-shirts or will be stationed at reception/check-in of the venue. Contact email: info@tryswiftconf.com
 
 ## License
 
