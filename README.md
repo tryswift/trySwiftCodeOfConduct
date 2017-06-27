@@ -1,25 +1,33 @@
-# try! Conference Code Of Conduct
+# FrenchKit Code Of Conduct
 
-try! Conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+## Introduction
 
-We don’t want anyone to be excluded due to age, gender, sexual orientation, mental or physical impairments, appearance or skin colour, national or religious background. We hope to see the same attitude with our attendees, and look forward to experiencing a non-violent and peaceful event with you.
+_In our opinion, defining a conference as pro-respect and tolerance in a Code of Conduct is intrinsically harmful. It legitimates the fact that it could be possible for a technology-focused event to oppose such values. Inclusivity is *not* an opinion. It is an universal and obvious principle._
 
-## For Speakers
+## FrenchKit Code of Conduct 2017
 
-Sexual language and imagery is not appropriate during talks. Refrain from using these in your slides. Sexist, racist, or exclusionary jokes are not acceptable.
+**We shall not need Codes of Conduct.** And this is not just due to the fact that developers, our audience, should have already understood the principles of a good and inclusive behaviour but also because, in France, any kind of harassment or discrimination is actually "forbidden and punished in all situations" (https://www.service-public.fr/particuliers/vosdroits/F19448, https://www.service-public.fr/particuliers/vosdroits/F32247<sup name="a1">[1](#f1)</sup>).
 
-## For Attendees
+However if, for the sake of ethics, we need to stand against what we do not appreciate or tolerate, here is our own code:
+- Be respectful of **everyone**
+- Understand that resources you will find at the events are meant for sharing, and not for your sole consumption. That includes drinks, food, seats and common spaces
+- Be respectful of speakers' work. Preparing a talk demands effort, and they do not deserve puns, ringing phones, chatting, sleeping or any behaviour that may cause nuisance to their presentation. Please be supportive.
+- Do not give your opinion about something you do not know
+- Make constructive feedback
+- Understand that staff is not there to serve you but, rather, to help you
+- If you ever cannot make it to the conference, let others know or resell your ticket, so to allow others to participate
+- And, ultimately, be _quelqu'un(e) de bien_
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+## Get in Touch
 
-## Action
+If you are being harassed, discriminated against or notice someone else that is, or have any other concern, please contact a member of the FrenchKit organizers or volunteers immediately.
 
-If you are being harassed, notice someone else that is being harassed, or have any other concerns, please contact a member of the try! Conference organizers or volunteers immediately.
-
-try! Conference organizers and volunteers can be identified by t-shirts or will be stationed at reception/check-in of the venue. Contact email: info@tryswiftconf.com
+FrenchKit organizers and volunteers can be identified by t-shirts or will be stationed at reception/check-in of the venue. Contact email: hello@frenchkit.fr
 
 ## License
 
-This Code of Conduct was forked from iOSDevCampDC 2015, which was forked from Droidcon NYC 2015, which was in turn forked from Droidcon India 2014, which in turn was forked from the PyCon US Code of Conduct, which in turn was forked from the Geek Feminism wiki, created by the Ada Initiative and other volunteers and available under a creative Commons Zero license.
+The Conference Code of Conduct for FrenchKit 2017 is licensed under a Creative Commons Attribution 3.0 Unported License.
 
-The Conference Code of Conduct for try! Conference 2016 is licensed under a Creative Commons Attribution 3.0 Unported License.
+## Footnotes
+
+<b id="f1">1</b> Retrieved on 2017-07-27. [↩](#a1)
