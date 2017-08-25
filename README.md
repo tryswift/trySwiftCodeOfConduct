@@ -16,7 +16,7 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 If you are being harassed, notice someone else that is being harassed, or have any other concerns, please contact a member of the try! Conference organizers or volunteers immediately.
 
-try! Conference organizers and volunteers can be identified by t-shirts or will be stationed at reception/check-in of the venue. Contact email: info@tryswiftconf.com
+try! Conference organizers and volunteers can be identified by t-shirts or will be stationed at reception/check-in of the venue. Contact email: conduct@tryswift.co
 
 ## License
 
